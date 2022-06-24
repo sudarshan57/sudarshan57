@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFEiKoHsn4/-tlY320xIF4OLnGwo2bibw/edit?utm_content=DAFEiKoHsn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+[![MasterHead](https://www.canva.com/design/DAFEiKoHsn4/-tlY320xIF4OLnGwo2bibw/edit?utm_content=DAFEiKoHsn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sudarshan Pandey</h1>
 <h3 align="center">Front End Developer | Blogger</h3>
 
