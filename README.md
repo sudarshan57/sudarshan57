@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.pngfind.com/pngs/m/118-1181927_web-development-services-web-development-services-png-transparent.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAU4wjqZIJ3b_1R4pF3wuWt8X_X5nf-0bDrA&usqp=CAU))]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAU4wjqZIJ3b_1R4pF3wuWt8X_X5nf-0bDrA&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Sudarshan Pandey</h1>
 <h3 align="center">Front End Developer | Blogger</h3>
 
