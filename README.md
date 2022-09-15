@@ -1,6 +1,6 @@
 masterhead![modern](https://user-images.githubusercontent.com/94542120/190464453-fbb2ff5d-5ddb-4cb8-843f-7511ed14ef71.png)
 <h1 align="center">Hey! Welcome In The Web World </h1>
-<h3 align="center">Front End Developer | Blogger</h3>
+<h3 align="center">!! New Era Web Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
