@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAU4wjqZIJ3b_1R4pF3wuWt8X_X5nf-0bDrA&usqp=CAU)]
+[![MasterHead](https://drive.google.com/file/d/1ZLshzHWWHkHz6OfrXJkwDrkqixE4hjoW/view?usp=sharing)]
 <h1 align="center">Hi 👋, I'm Sudarshan Pandey</h1>
 <h3 align="center">Front End Developer | Blogger</h3>
 
