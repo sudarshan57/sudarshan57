@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1ZLshzHWWHkHz6OfrXJkwDrkqixE4hjoW/view?usp=sharing)]
+[![MasterHead]![modern](https://user-images.githubusercontent.com/94542120/190464453-fbb2ff5d-5ddb-4cb8-843f-7511ed14ef71.png)]
 <h1 align="center">Hi 👋, I'm Sudarshan Pandey</h1>
 <h3 align="center">Front End Developer | Blogger</h3>
 
